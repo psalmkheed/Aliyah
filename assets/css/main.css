@@ -147,7 +147,7 @@ hr {
 /* hero section styles */
 #heroSection {
   background-image: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
-    url("assets/images/SpagBg.jpg");
+    url("./assets/images/SpagBg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
